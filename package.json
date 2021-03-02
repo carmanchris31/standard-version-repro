@@ -1,0 +1,22 @@
+{
+  "name": "standard-version-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carmanchris31/standard-version-repro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carmanchris31/standard-version-repro/issues"
+  },
+  "homepage": "https://github.com/carmanchris31/standard-version-repro#readme",
+  "devDependencies": {
+    "standard-version": "^9.1.1"
+  }
+}
